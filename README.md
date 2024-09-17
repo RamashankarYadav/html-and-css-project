@@ -1,1 +1,1 @@
-# html-and-css-project
+full stack project. STUDYNOTION
